@@ -1,7 +1,7 @@
 ﻿Comparison of ML techniques applied to Parkinsons Dataset ,,,,,,,,
-Model ,Cross-validation scores,Cross-validation accuracy,Model Accuracy,Training Accuracy,Testing Accuracy,Precision,Sensitivity,Specificity
+Model,Cross-validation scores,Cross-validation accuracy,Model Accuracy,Training Accuracy,Testing Accuracy,Precision,Sensitivity,Specificity
 Random Forest," ['0.7692', '0.7692', '0.7500', '0.7885', '0.7692'] ",0.7692,0.7231,1,0.7231,0.7447,0.8537,0.5
-MLP ","['0.6923', '0.6731', '0.7692', '0.8077', '0.6923'] ",0.7269,0.6923,1,0.6923,0.7234,0.8293,0.4583
+MLP,"['0.6923', '0.6731', '0.7692', '0.8077', '0.6923'] ",0.7269,0.6923,1,0.6923,0.7234,0.8293,0.4583
 Decision Tree,"['0.7115', '0.5962', '0.6923', '0.6731', '0.6923']",0.6731,0.7538,0.7907,0.7538,0.7907,0.8293,0.625
 K-Neighbors,"['0.6731', '0.6923', '0.6731', '0.6923', '0.7692']",0.7,0.7077,0.7538,0.7077,0.72,0.878,0.4167
 SVM,"['0.7308', '0.7500', '0.6923', '0.7692', '0.7692']",0.7423,0.7231,0.7692,0.7231,0.7018,0.9756,0.2917
